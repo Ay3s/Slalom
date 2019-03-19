@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Slalom
 {
+    // Class which will hold the values of the player.
     class Racer
     {
         public int x, y;

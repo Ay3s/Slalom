@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Slalom
 {
+    // Class which will hold the values of the gates.
     class Gates
     {
         public int x;
